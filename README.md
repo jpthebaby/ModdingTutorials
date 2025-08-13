@@ -8,6 +8,12 @@ The goal of this hub is to make modding approachable, creative, and fun—while 
 
 ***
 
+Check the Game Modding Tutorials + Tools in the below Wiki Page.
+
+[Modding Tutorials - Gamer JP Wiki](https://github.com/jpthebaby/ModdingTutorials/wiki)
+
+***
+
 📢 Connect & Support
 
 YouTube: [Gamer JP](www.youtube.com/@jpthehero)
