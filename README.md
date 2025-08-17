@@ -39,6 +39,6 @@ Check out the **Game Modding Tutorials + Tools** section in the Wiki:
 # 🎉 Credits
 *(Appreciate people who contributed on wiki)*  
 
-- 🎀[JP](https://github.com/jpthebaby)
+- 🎀[Gamer JP](https://github.com/jpthebaby)
 
 - 🎀[Heuwu](https://github.com/StellarBladeModding)
