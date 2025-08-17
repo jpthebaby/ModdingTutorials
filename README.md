@@ -34,5 +34,11 @@ Check out the **Game Modding Tutorials + Tools** section in the Wiki:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscordlink)  
 [![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourpatreon)  
 
-
 ---
+
+# 🎉 Credits
+*(Appreciate people who contributed on wiki)*  
+
+- 🎀[JP](https://github.com/jpthebaby)
+
+- 🎀[Heuwu](https://github.com/StellarBladeModding)
